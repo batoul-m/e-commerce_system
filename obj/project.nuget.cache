@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tOcwXBYZW9iJsjMv728E5fkMgv+90T7KVsVqgGfHSlQug6O2i5dK/7yrkT5ZjM9ZD/+O8yNndR5O3gJq/CeGUQ==",
+  "success": true,
+  "projectFilePath": "/home/user/Desktop/testvisual/e-commerce_system/e-commerce_system.csproj",
+  "expectedPackageFiles": [
+    "/home/user/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/home/user/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
